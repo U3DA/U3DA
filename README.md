@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://stsci-opo.org/STScI-01G77PKYA4T05YKJ3EDQ36NZCX.png">
+<img align="right" alt="Coding" width="100%" src="https://stsci-opo.org/STScI-01G77PKYA4T05YKJ3EDQ36NZCX.png">
 
 - 👋 Hi, I’m @U3DA
 - 👀 I’m interested in ...
