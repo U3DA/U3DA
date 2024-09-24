@@ -1,3 +1,6 @@
+<p align="center>
+  
+</p>
 <img align="right" alt="Coding" width="100%" src="https://i.pinimg.com/1200x/11/1a/03/111a03133d14214539c96e0f657dff1a.jpg">
 
 <h2 align="center">U3DA</h2>
@@ -13,7 +16,7 @@
   And like every good student… Always learning something new.
 </p>
 
-⭐️ BONUS ⭐️: If you made it this far, I have a secret to share with you:
+### ⭐️ BONUS ⭐️: If you made it this far, I have a secret to share with you:
 
 This is my favorite band. 🇧🇷
 
