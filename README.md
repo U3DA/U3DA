@@ -25,5 +25,3 @@ UELO
 https://youtu.be/4m-siu8xE2c
 
 And I play with 🫣🤣🤘🏽
-
-- 👋 Hi, I’m @U3DA
